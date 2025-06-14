@@ -7,7 +7,7 @@ I'm a [Your Profession] with experience in [Your Skills/Technologies]. I love wo
 - Programming Languages: [Languages]
 - Frameworks: [Frameworks]
 - Tools: [Tools]
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,next,nest)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,next,nest,ts,bootstrap,redux,react-query)](https://skillicons.dev)
 
 ## Projects
 - [Project 1](link): Brief description
