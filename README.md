@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**realmowhamad/realmowhamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a [Your Profession] with experience in [Your Skills/Technologies]. I love working on projects that [Your Interests].
 
-Here are some ideas to get you started:
+## Skills
+- Programming Languages: [Languages]
+- Frameworks: [Frameworks]
+- Tools: [Tools]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Project 1](link): Brief description
+- [Project 2](link): Brief description
+
+## Connect with Me
+- [LinkedIn](link)
+- [Twitter](link)
+- [Personal Website](link)
