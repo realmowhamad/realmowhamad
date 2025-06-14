@@ -14,7 +14,7 @@ I’m passionate about web development because of its potential to create engagi
 2. Implemented a real-time chat application with WebSocket and Node.js, improving communication efficiency.
 3. Led a team to redesign a corporate website, resulting in a 30% increase in user retention.
 
-💻 I speak not in my mother tongue, but in JavaScript! I’ve worked extensively with React, Next.js, and other modern web technologies. My goal is to continuously learn and apply new skills to create seamless user experiences.
+💻 I speak not in my mother tongue, but in JavaScript and Python! I’ve worked extensively with React, Next.js, Django, and other modern web technologies. My goal is to continuously learn and apply new skills to create seamless user experiences.
 
 ✏️ Alongside my work, I contribute to open-source projects and enjoy sharing knowledge through blogging and community events.
 
@@ -32,13 +32,13 @@ I thrive on collaboration and am always eager to tackle new challenges. I’m de
 # 💻 Skills:
 
 ### Programming Languages
-[![Programming Languages](https://skillicons.dev/icons?i=js,ts,html,css&theme=light)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=js,ts,python,html,css&theme=light)](https://skillicons.dev)
 
 ### Front-End Frameworks
 [![Front-End Frameworks](https://skillicons.dev/icons?i=react,next,redux,bootstrap,tailwind&theme=light)](https://skillicons.dev)
 
 ### Back-End Development
-[![Back-End Development](https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql&theme=light)](https://skillicons.dev)
+[![Back-End Development](https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django&theme=light)](https://skillicons.dev)
 
 ### Tools & Platforms
 [![Tools & Platforms](https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma&theme=light)](https://skillicons.dev)
