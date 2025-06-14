@@ -2,7 +2,7 @@
 
 Oh hello there! 😁
 
-I am a Front-End Developer with a passion for creating interactive and responsive web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
+I am a Full-Stack Developer with a passion for creating interactive and responsive web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
 
 ✨ My Passion and Purpose? 
 
@@ -36,6 +36,9 @@ I thrive on collaboration and am always eager to tackle new challenges. I’m de
 
 ### Front-End Frameworks
 [![Front-End Frameworks](https://skillicons.dev/icons?i=react,next,redux,bootstrap,tailwind&theme=light)](https://skillicons.dev)
+
+### Back-End Development
+[![Back-End Development](https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql&theme=light)](https://skillicons.dev)
 
 ### Tools & Platforms
 [![Tools & Platforms](https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma&theme=light)](https://skillicons.dev)
